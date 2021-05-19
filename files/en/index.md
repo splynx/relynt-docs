@@ -1,10 +1,10 @@
 Table of contents
 =================
 
-##### [Getting Started With SPLYNX](getting_started_guide/getting_started_guide.md)
-* [Splynx license](getting_started_guide/splynx_license/splynx_license.md)
+##### [Getting Started With Relynt](getting_started_guide/getting_started_guide.md)
+* [Relynt license](getting_started_guide/splynx_license/splynx_license.md)
 * [Hardware requirements](getting_started_guide/hardware_requirements/hardware_requirements.md)
-* [Install Splynx ISP Framework](getting_started_guide/install_splynx/install_splynx.md)
+* [Install Relynt ISP Framework](getting_started_guide/install_relynt/install_relynt.md)
 * [Dashboard](getting_started_guide/dashboard/dashboard.md)
 * [Create swap file](getting_started_guide/create_swap_file/create_swap_file.md)
 
@@ -75,76 +75,7 @@ Table of contents
 * [Scheduling](my_profile/scheduling/scheduling.md)
 * [IMAP](my_profile/imap/imap.md)
 
-
-##### [Networking](networking/networking.md)
-* [Authentication of admins, Radius](networking/authentication_admins_radius/authentication_admins_radius.md)
-
-  * [Admin login to Mikrotik routers](networking/authentication_admins_radius/admin_login_to_mikrotik/admin_login_to_mikrotik.md)
-  * [Admin login to Cisco devices](networking/authentication_admins_radius/admin_login_to_cisco/admin_login_to_cisco.md)
-  * [Admin login to Juniper (JUNOS)](networking/authentication_admins_radius/admin_login_to_juniper/admin_login_to_juniper.md)
-
-
-* [Authentication of customers](networking/authentication_of_customers/authentication_of_customers.md)
-  * [Cambium: Wireless Authentication via Radius](networking/authentication_of_customers/cambium_wireless_auth_radius/cambium_wireless_auth_radius.md)
-  * [Cisco IOS: PPPoE with Radius](networking/authentication_of_customers/cisco_pppoe_radius/cisco_pppoe_radius.md)
-  * [Cisco IOS XE : PPPoE Radius](networking/authentication_of_customers/cisco_xe_pppoe_radius/cisco_xe_pppoe_radius.md)
-  * [DHCP Option 82](networking/authentication_of_customers/dhcp_option_82/dhcp_option_82.md)
-  * [DSL Telkom (Openserve) authentication](networking/authentication_of_customers/dsl_telkom_openserve/dsl_telkom_openserve.md)
-  * [Juniper: PPPoE with Radius](networking/authentication_of_customers/juniper_pppoe_radius/juniper_pppoe_radius.md)
-  * [Linux: Accel-PPP server](networking/authentication_of_customers/linux_accel/linux_accel.md)
-  * [Linux: Accel-PPP server with IPoE](networking/authentication_of_customers/linux_accel_ipoe/linux_accel_ipoe.md)
-  * [Mikrotik: DHCP with Radius](networking/authentication_of_customers/mikrotik_dhcp_radius/mikrotik_dhcp_radius.md)
-  * [Mikrotik: Hotspot, Radius](networking/authentication_of_customers/mikrotik_hotspot_radius/mikrotik_hotspot_radius.md)
-  * [Mikrotik: Hotspot Login from Splynx portal](networking/authentication_of_customers/mikrotik_hotspot_from_portal/mikrotik_hotspot_from_portal.md)
-  * [Mikrotik: Local auth, API](networking/authentication_of_customers/mikrotik_local_auth_api/mikrotik_local_auth_api.md)
-  * [Mikrotik: OpenVPN, Radius](networking/authentication_of_customers/mikrotik_openvpn_radius/mikrotik_openvpn_radius.md)
-  * [Mikrotik: PPPoE, Radius](networking/authentication_of_customers/mikrotik_pppoe_radius/mikrotik_pppoe_radius.md)
-  * [Mikrotik: Static IPs with API](networking/authentication_of_customers/mikrotik_static_api/mikrotik_static_api.md)
-  * [Ubiquiti: PPPoE on Edge Routers](networking/authentication_of_customers/ubiquiti_pppoe_edge/ubiquiti_pppoe_edge.md)
-  * [Ubiquiti: Wireless auth, Radius](networking/authentication_of_customers/ubiquiti_wireless_auth_radius/ubiquiti_wireless_auth_radius.md)
-
-
-* [Bandwidth management](networking/bandwidth_management/bandwidth_management.md)
-  * [Capped plans and top up](networking/bandwidth_management/capped_plans/capped_plans.md)
-  * [Contentions](networking/bandwidth_management/contentions/contentions.md)
-  * [Fair user policy - FUP](networking/bandwidth_management/fup/fup.md)
-  * [Mikrotik queue speed limits](networking/bandwidth_management/queue_speed_limits/queue_speed_limits.md)
-  * [Radius based speed limits](networking/bandwidth_management/radius_speed_limits/radius_speed_limits.md)
-
-
-* [Blocking customers in Splynx](networking/blocking_customers/blocking_customers.md)
-
-* [Huawei GPON](networking/huawei_gpon/huawei_gpon.md)
-
-* [IP address management](networking/ip_address_management/ip_address_management.md)
-  * [IPv4](networking/ip_address_management/ipv4/ipv4.md)
-  * [IPv6](networking/ip_address_management/ipv6/ipv6.md)
-
-
 * [Maps](networking/maps/maps.md)
-
-* [Monitoring (Hardware)](networking/monitoring/monitoring.md)
-
-* [TR-069 (ACS)](networking/tr069_acs/tr069_acs.md)
-
-* [PPTP Connection between Splynx and Mikrotik](networking/pptp_splynx_mikrotik/pptp_splynx_mikrotik.md)
-
-* [Radius server customization](networking/radius_customization/radius_customization.md)
-
-* [Radius Proxy Accounting](networking/radius_proxy_accounting/radius_proxy_accounting.md)
-
-* [Routers settings](networking/routers_settings/routers_settings.md)
-  * [Cisco routers](networking/routers_settings/cisco/cisco.md)
-  * [Juniper routers](networking/routers_settings/juniper/juniper.md)
-  * [Mikrotik routers](networking/routers_settings/mikrotik/mikrotik.md)
-  * [MikroTik Live bandwidth](networking/routers_settings/mikrotik_live_bandwidth/mikrotik_live_bandwidth.md)
-  * [Other routers](networking/routers_settings/other/other.md)
-  * [Ubiquiti Edge routers](networking/routers_settings/ubiquiti/ubiquiti.md)
-
-
-* [Troubleshooting Radius server](networking/troubleshooting_radius/troubleshooting_radius.md)
-
-* [Weathermaps](networking/weathermaps/weathermaps.md)
 
 ##### [Support and Messages](support_messages/support_messages.md)
 * [Email messages](support_messages/email_messages/email_messages.md)
@@ -160,15 +91,6 @@ Table of contents
 * [Projects](scheduling/projects/projects.md)
 * [Tasks](scheduling/tasks/taks.md)
 * [Workflows](scheduling/workflows/workflows.md)
-
-##### [Voice](voice/voice.md)
-
-* [Auto CDR Processing](voice/auto_cdr_processing/auto_cdr_processing.md)
-* [Prefixes](voice/prefixes/prefixes.md)
-* [Processing](voice/processing/processing.md)
-* [Rates](voice/rates/rates.md)
-* [Tariff Settings](voice/tariff_settings/tariff_settings.md)
-* [Voice Categories](voice/voice_categories/voice_categories.md)
 
 ##### [Administration](administration/administration.md)
 * [Main](administration/main/main.md)
@@ -277,21 +199,6 @@ Table of contents
   * [Vouchers](configuration/main_configuration/vouchers/vouchers.md)
 
 
-* [Network configuration](configuration/network/network.md)
-
-  * [CPE](configuration/network/cpe/cpe.md)
-  * [FUP](configuration/network/fup/fup.md)
-  * [IP Host categories](configuration/network/ip_host_categories/ip_host_categories.md)
-  * [IP Network categories](configuration/network/ip_network_categories/ip_network_categories.md)
-  * [IPv4](configuration/network/ipv4/ipv4.md)
-  * [MikroTik API](configuration/network/mikrotik_api/mikrotik_api.md)
-  * [Monitoring config](configuration/network/monitoring_config/monitoring_config.md)
-  * [NAS types](configuration/network/nas_types/nas_types.md)
-  * [Network Weathermap Editor](configuration/network/network_weathermap_editor/network_weathermap_editor.md)
-  * [Radius Extended](configuration/network/radius_extended/radius_extended.md)
-  * [Radius](configuration/network/radius/radius.md)
-
-
 * [Scheduling](configuration/scheduling/scheduling.md)
 
   * [Checklist templates](configuration/scheduling/checklist_templates/checklist_templates.md)
@@ -334,28 +241,15 @@ Table of contents
     * [ Cloud ](configuration/tools/openvpn/cloud/routes/routes.md)
 
 
-* [Voice](configuration/voice/voice.md)
-
-  * [Auto CDR Processing](configuration/voice/auto_cdr_processing/auto_cdr_processing.md)
-  * [Import Data Source](configuration/voice/import_data_source/import_data_source.md)
-
-
 ##### [Add-ons, Modules](addons_modules/addons_modules.md)
-* [Baicells LTE](addons_modules/baicells/baicells.md)
 * [Cashdesk module](addons_modules/cashdesk/cashdesk.md)
 * [FatturaPA](addons_modules/FatturaPA/FatturaPA.md)
-* [FCC 477 export](addons_modules/fcc_export/fcc_export.md)
-* [Google maps add-on](addons_modules/google_maps/google_maps.md)
-* [Ofipro contabilidad (Spanish)](addons_modules/ofipro/ofipro.md)
 * [Quickbooks accounting](addons_modules/quickbooks/quickbooks.md)
 * [SageOne module](addons_modules/sageone/sageone.md)
 * [Self Registration](addons_modules/self_registration/self_registration.md)
-* [Signaturit](addons_modules/signaturit/signaturit.md)
-* [Speedtest](addons_modules/speedtest/speedtest.md)
-* [Splynx Mailjet](addons_modules/splynx_mailjet/splynx_mailjet.md)
-* [splynx-ssh-term](addons_modules/splynx-ssh-term/splynx-ssh-term.md)
-* [splynx_remote_support](addons_modules/splynx_remote_support/splynx_remote_support.md)
-* [TowerCoverage Integration](addons_modules/towercoverage/towercoverage.md)
+* [Mailjet](addons_modules/mailjet/mailjet.md)
+* [ssh-term](addons_modules/ssh-term/ssh-term.md)
+* [relynt_remote_support](addons_modules/relynt_remote_support/relynt_remote_support.md)
 * [Xero accounting](addons_modules/xero/xero.md)
 
 ##### [Online backups](online_backups/online_backups.md)
@@ -383,14 +277,6 @@ Table of contents
 * [SEPA debit orders](payment_systems/sepa/sepa.md)
 * [Stripe online payments](payment_systems/stripe/stripe.md)
 * [TBK-WebPay](payment_systems/TBK-WebPay/TBK-WebPay.md)
-
-##### [Splynx mobile applications](apps/apps.md)
-* [Customer Application](apps/customer_app/customer_app.md)
-* [Scheduling Application](apps/scheduler_app/scheduler_app.md)
-
-##### Splynx High Availability setup
-* [Splynx High Availability setup](splynx_high_availability/splynx_high_availability.md)
-
 
 
 ##### [Miscellaneous](miscellaneous/miscellaneous.md)
