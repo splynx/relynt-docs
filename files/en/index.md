@@ -2,7 +2,6 @@ Table of contents
 =================
 
 ##### [Getting Started With Relynt](getting_started_guide/getting_started_guide.md)
-TEST3
 * [Relynt license](getting_started_guide/splynx_license/splynx_license.md)
 * [Hardware requirements](getting_started_guide/hardware_requirements/hardware_requirements.md)
 * [Install Relynt ISP Framework](getting_started_guide/install_relynt/install_relynt.md)
