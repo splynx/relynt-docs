@@ -2,23 +2,16 @@ Table of contents
 =================
 
 ##### [Getting Started With Relynt](getting_started_guide/getting_started_guide.md)
-* [Relynt license](getting_started_guide/splynx_license/splynx_license.md)
+* [Relynt license](getting_started_guide/relynt_license/relynt_license.md)
 * [Hardware requirements](getting_started_guide/hardware_requirements/hardware_requirements.md)
 * [Install Relynt ISP Framework](getting_started_guide/install_relynt/install_relynt.md)
 * [Dashboard](getting_started_guide/dashboard/dashboard.md)
 * [Create swap file](getting_started_guide/create_swap_file/create_swap_file.md)
 
 ##### [Configuring Tariff Plans](configuring_tariff_plans/configuring_tariff_plans.md)
-* [Bundle plans](configuring_tariff_plans/bundle_plans/bundle_plans.md)
-* [Burst speed concept](configuring_tariff_plans/burst_speed_concept/burst_speed_concept.md)
-* [Capped plans and Top-Ups](configuring_tariff_plans/capped_plans/capped_plans.md)
 * [Change plan](configuring_tariff_plans/tariff_change/tariff_change.md)
-* [Custom plans](configuring_tariff_plans/custom_plans/custom_plans.md)
-* [Fair Usage Policy](configuring_tariff_plans/fair_usage_policy/fair_usage_policy.md)
-* [Huawei Groups](configuring_tariff_plans/huawei_groups/huawei_groups.md)
-* [Internet plans](configuring_tariff_plans/internet_plans/internet_plans.md)
+* [Recurring plans](configuring_tariff_plans/recurring_plans/recurring_plans.md)
 * [One-Time plans](configuring_tariff_plans/one_time_plans/one_time_plans.md)
-* [Voice plans](configuring_tariff_plans/voice_plans/voice_plans.md)
 
 
 ##### [CRM](crm/crm.md)
