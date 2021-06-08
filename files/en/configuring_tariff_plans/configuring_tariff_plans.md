@@ -15,6 +15,6 @@ Tariff plans are assigned to customers as services and these are the means by wh
 Please follow each of the sections below for more details on configuring tariff plans:
 
 
-* [Recurring plans](configuring_tariff_plans/custom_plans/custom_plans.md)
+* [Recurring plans](configuring_tariff_plans/custom_plans/recurring_plans.md)
 
 * [One-Time plans](configuring_tariff_plans/one_time_plans/one_time_plans.md)
