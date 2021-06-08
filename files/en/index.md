@@ -4,7 +4,7 @@ Table of contents
 ##### [Getting Started With Relynt](getting_started_guide/getting_started_guide.md)
 * [Relynt license](getting_started_guide/relynt_license/relynt_license.md)
 * [Hardware requirements](getting_started_guide/hardware_requirements/hardware_requirements.md)
-* [Install Relynt ISP Framework](getting_started_guide/install_relynt/install_relynt.md)
+* [Install Relynt](getting_started_guide/install_relynt/install_relynt.md)
 * [Dashboard](getting_started_guide/dashboard/dashboard.md)
 * [Create swap file](getting_started_guide/create_swap_file/create_swap_file.md)
 
@@ -16,7 +16,6 @@ Table of contents
 
 ##### [CRM](crm/crm.md)
 * [Dashboard](crm/dashboard/dashboard.md)
-* [Deals](crm/deals/deals.md)
 * [Documents](crm/documents/documents.md)
 * [Leads](crm/leads/leads.md)
 * [Quotes](crm/quotes/quotes.md)
@@ -24,15 +23,12 @@ Table of contents
 ##### [Customer Management](customer_management/customer_management.md)
 * [Adding new customer](customer_management/add_new_customer/add_new_customer.md)
 * [Configuration of the Table, List](customer_management/configuration_of_the_table/configuration_of_the_table.md)
-* [CPE management](customer_management/cpe_management/cpe_management.md)
 * [Custom additional fields](customer_management/custom_additional_fields/custom_additional_fields.md)
 * [Customer billing](customer_management/customer_billing/customer_billing.md)
 * [Customer documents](customer_management/customer_documents/customer_documents.md)
 * [Customer information](customer_management/customer_information/customer_information.md)
 * [Customer services](customer_management/customer_services/customer_services.md)
-* [Customer statistics](customer_management/customer_statistics/customer_statistics.md)
 * [Maps](customer_management/maps/maps.md)
-* [Prepaid vouchers](customer_management/prepaid_vouchers/prepaid_vouchers.md)
 * [Search](customer_management/search/search.md)
 
 ##### [Customer Portal](customer_portal/customer_portal.md)
