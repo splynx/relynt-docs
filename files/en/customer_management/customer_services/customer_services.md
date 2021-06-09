@@ -16,7 +16,7 @@ After clicking the "add service" or "+" button, the window will appear for you t
 ![Create service 2](create_service2.png)
 
 
-* **Plan** - the tariff selected/list of tariffs available to select (`Internet`, `Voice`, `Custom`)
+* **Plan** - the tariff selected/list of tariffs available to select from the `Recurring` tariffs on the system
 * **Description** - a description of the tariff (optional)
 * **Quantity** - the multiple of plans for the selected service
 * **Unit** - a unit of measurement (if using for invoices - for example: m, ft, etc.) (Optional)
@@ -30,7 +30,7 @@ After clicking the "add service" or "+" button, the window will appear for you t
   * **Disabled** - when applied manually it ends accounting of the service to the date specified in the end date parameter. This is also the status given to customers who have reached their deactivation date, assuming they longer use your services.
   * **Stopped** - Used to temporary disable the service when a customer is blocked, accounting still continues for the service in this state. The status will also be set automatically to the new service generated when a client is marked as Inactive, when the customer is activated, the service's status will automatically change to Active with the start date of the day of activation.
   * **Pending** - Status of the new service during the waiting period of a planned service change. Between the end date of the old service and the start date of the new.
-  * **Archived** - status for services archived for future reference. Accounting diregards archived services
+  * **Archived** - status for services archived for future reference. Accounting disregards archived services
 
 
 You can **edit** a service, **schedule a future change**, **change** the plan, or **delete**  the service by these icons <icon class="image-icon">![Services actions](services_actions1.png)</icon>, located in the actions column of the service table.
