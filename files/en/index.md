@@ -64,7 +64,7 @@ Table of contents
 * [Scheduling](my_profile/scheduling/scheduling.md)
 * [IMAP](my_profile/imap/imap.md)
 
-* [Maps](networking/maps/maps.md)
+
 
 ##### [Support and Messages](support_messages/support_messages.md)
 * [Email messages](support_messages/email_messages/email_messages.md)

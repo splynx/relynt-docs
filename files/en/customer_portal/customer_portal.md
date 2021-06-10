@@ -5,6 +5,8 @@ The customer portal is the home of access to each customer's private accounts. C
 
 Customers can also check their profile, latest news and updates, important documents including financial documents, contracts etc, as well as all messages received or tickets submitted for support in the customer portal.
 
+Don't forget! We integrate with different platforms for billing purposes, some of these features are integrated to the customer portal too!
+
 The navigation pane in the customer portal can display the following Modules:
 
 * **Dashboard** -  displays general information about the customers current balance, unpaid invoices or proforma invoices, new messages, new tickets and latest news.
