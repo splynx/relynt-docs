@@ -56,6 +56,7 @@ Table of contents
 * [Suppliers](inventory/suppliers/suppliers.md)
 * [Supplier invoices](inventory/supplier_invoices/supplier_invoices.md)
 * [Vendors](inventory/vendors/vendors.md)
+* [Reports](inventory/reports/reports.md)
 
 ##### [My Profile](my_profile/my_profile.md)
 * [ Profile ](my_profile/profile/profile.md)
