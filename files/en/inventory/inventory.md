@@ -22,6 +22,6 @@ This system is divided into:
 
 * [ Vendors](inventory/vendors/vendors.md)
 
-* [Reports](inventory/reports/reports.dm)
+* [Reports](inventory/reports/reports.md)
 
 ![Inventory](inventory.png)
