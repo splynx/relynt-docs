@@ -7,18 +7,14 @@ The inventory enables you to track the movement of your inventory items and alwa
 
 
 This system is divided into:
-<br>
-* Products and Items:
-<br>
+
 
 * [ Dashboard](inventory/dashboard/dashboard.md)
 
 * [ Items](inventory/items/items.md)
 
 * [ Products](inventory/products/products.md)
-<br>
-* Supply:
-<br>
+
 * [ Suppliers](inventory/suppliers/suppliers.md)
 
 * [ Supplier invoices](inventory/supplier_invoices/supplier_invoices.md)
