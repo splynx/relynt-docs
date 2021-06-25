@@ -67,10 +67,12 @@ Table of contents
 
 
 
-##### [Support and Messages](support_messages/support_messages.md)
-* [Email messages](support_messages/email_messages/email_messages.md)
-* [News](support_messages/news/news.md)
-* [SMS messages](support_messages/sms_messages/sms_messages.md)
+##### [Messages](messages/messages.md)
+* [Inbox](messages/inbox/inbox.md)
+* [Mass sending](messages/mass_sending/mass_sending.md)
+* [Email messages](messages/mass_sending/email_messages/email_messages.md)
+* [News](messages/news/news.md)
+* [SMS messages](messages/mass_sending/sms_messages/sms_messages.md)
 
 
 ##### [Scheduling](scheduling/scheduling.md)
