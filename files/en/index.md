@@ -58,21 +58,20 @@ Table of contents
 * [Vendors](inventory/vendors/vendors.md)
 * [Reports](inventory/reports/reports.md)
 
+##### [Messages](messages/messages.md)
+* [Inbox](messages/inbox/inbox.md)
+* [Mass sending](messages/mass_sending/mass_sending.md)
+* [Email messages](messages/mass_sending/email_messages/email_messages.md)
+* [SMS messages](messages/mass_sending/sms_messages/sms_messages.md)
+* [News](messages/news/news.md)
+
+
 ##### [My Profile](my_profile/my_profile.md)
 * [ Profile ](my_profile/profile/profile.md)
 * [Customer search fields](my_profile/customer_search_fields/custom_search_fields.md)
 * [Last Login](my_profile/last_login/last_login.md)
 * [Scheduling](my_profile/scheduling/scheduling.md)
 * [IMAP](my_profile/imap/imap.md)
-
-
-
-##### [Messages](messages/messages.md)
-* [Inbox](messages/inbox/inbox.md)
-* [Mass sending](messages/mass_sending/mass_sending.md)
-* [Email messages](messages/mass_sending/email_messages/email_messages.md)
-* [News](messages/news/news.md)
-* [SMS messages](messages/mass_sending/sms_messages/sms_messages.md)
 
 
 ##### [Scheduling](scheduling/scheduling.md)

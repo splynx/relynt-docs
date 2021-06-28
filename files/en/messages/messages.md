@@ -11,4 +11,4 @@ Descriptions of each section can be found on the links below:
 
 * [Mass sending](messages/mass_sending/mass_sending.md)
 
-* [ News](messages/news/news.md)
+* [News](messages/news/news.md)
