@@ -9,7 +9,7 @@ Ultimately, this feature allows your to create messages that are sent directly t
 
 ![Add news](add_news.png)
 
-Ypu will be presented with a window, where you will be able to fill in a Title and a Description in the provided fields, choose the date of the letter, select Partners and locations to include in the reci[ients of the letter], and type text relative to the news you wish to deliver.
+Ypu will be presented with a window, where you will be able to fill in a Title and a Description in the provided fields, choose the date of the letter, select Partners and locations to include in the recipients of the letter, and type text relative to the news you wish to deliver.
 
 ![Create news](create_news.png)
 
