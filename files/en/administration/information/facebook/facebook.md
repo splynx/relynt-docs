@@ -1,9 +1,9 @@
 Facebook
 ==========
 
-Navigating to this section will redirect you to the Splynx Facebook page:
+Navigating to this section will redirect you to the Relynt Facebook page:
 
-https://www.facebook.com/IspFramework
+https://www.facebook.com/relynt.software/
 
 ![Facebook](facebook.png)
 
