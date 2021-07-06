@@ -2,7 +2,7 @@ Projects
 ======
 The main menu of the scheduling module, displaying a list of all your projects at hand. With each project representing how many tasks it consists of, in each of its relevant statuses within the Workflow.
 
-**Reminder**: Just like all lists in Splynx, the data displayed can be customized
+**Reminder**: Just like all lists in Relynt, the data displayed can be customized
 to your preference by using the breadcrumbs icon at the bottom of each list. ![Content icon](content_icon.jpg)
 
 ![Projects table](projects_list.png)
