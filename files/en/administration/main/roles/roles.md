@@ -29,5 +29,5 @@ All custom roles can be edited or delete with the icons provided in the actions 
 
 ***Please be advised that default roles cannot be deleted or customized, however, default roles can be renamed.***
 
-For more information on the default roles in Splynx, please follow the link below:
+For more information on the default roles in Relynt, please follow the link below:
 [Default Roles](administration/main/roles/default_roles/roles.md)
