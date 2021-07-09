@@ -1,0 +1,25 @@
+Configuration
+=============
+
+This is the Global configurations of your Relynt server.
+
+Please follow the links below for tutorials of each of the sections of the Configuration:
+
+
+* [CRM](configuration/crm/crm.md)
+
+* [Finance configuration](configuration/finance/finance.md)
+
+* [Integrations](configuration/integrations/integrations.md)
+
+* [Inventory](configuration/inventory/inventory.md)
+
+* [Main configuration](configuration/main_configuration/main_configuration.md)
+
+* [Scheduling](configuration/scheduling/scheduling.md)
+
+* [Support](configuration/support/support.md)
+
+* [System](configuration/system/system.md)
+
+* [Tools](configuration/tools/tools.md)
