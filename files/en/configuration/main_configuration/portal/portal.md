@@ -31,18 +31,6 @@ This section of the portal configuration includes configurations of customer's a
 * **SMS check code length** - specify the number of characters to use when generating an SMS code
 
 
-## Customer Mobile app
-
-![Customer Mobile App](mobileapp1.png)
-
-In this section, we can configure elements of the customer mobile app.
-
-Parameter descriptions:
-
-* **Enabled** - enables/disables the displaying of the mobile app download links on customer portal login page
-* **Google Play App ID** - specify the Google play app ID, should be *com.Relynt.portal*
-* **App Store App ID** - specify the AppStore App ID, should *id1462886761*
-
 
 ### Additional attributes in profile
 
