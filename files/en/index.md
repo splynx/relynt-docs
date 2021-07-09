@@ -46,7 +46,6 @@ Table of contents
 * [Prepaid Billing](finance/billing_engine/prepaid_billing/prepaid_billing.md)
 * [Proforma invoices](finance/proforma_invoices/proforma_invoices.md)
 * [Recurring Billing](finance/billing_engine/recurring_billing/recurring_billing.md)
-* [Refill cards](finance/refill_cards/refill_cards.md)
 * [Transactions](finance/transactions/transactions.md)
 
 ##### [Inventory](inventory/inventory.md)
