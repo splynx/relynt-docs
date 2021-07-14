@@ -135,11 +135,15 @@ Table of contents
 ##### [Configuration](configuration/configuration.md)
 
 * [CRM](configuration/crm/crm.md)
+* [Finance](configuration/crm/finance/finance.md)
+* [IMAP](configuration/crm/imap/imap.md)
+* [Leads convert settings](configuration/crm/lead_convert_settings/lead_convert_settings.md)
+* [Leads stages](configuration/crm/leads_stages/leads_stages.md)
+* [Leads pipeline](configuration/crm/leads_pipeline/leads_pipeline.md)
+* [Notifications](configuration/crm/notifications/notifications.md)
+* [Preferences](configuration/crm/preferences/preferences.md)
+* [Sign Up Widget](configuration/crm/sign_up_widget/sign_up_widget.md)
 
-  * [Leads stages](configuration/crm/leads_stages/leads_stages.md)
-  * [Finance](configuration/crm/finance/finance.md)
-  * [Preferences](configuration/crm/preferences/preferences.md)
-  * [Sign Up Widget](configuration/crm/sign_up_widget/sign_up_widget.md)
 
 
 * [Finance configuration](configuration/finance/finance.md)
