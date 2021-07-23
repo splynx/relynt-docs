@@ -199,14 +199,15 @@ Table of contents
   * [Workflows](configuration/scheduling/workflows/workflows.md)
 
 
-* [Support](configuration/support/support.md)    
-  * [Feedback widget](configuration/support/feedback_widget/feedback_widget.md)
-  * [General ticket configuration](configuration/support/general_ticket_configuration/general_ticket_configuration.md)
-  * [Inboxes](configuration/support/inboxes/inboxes.md)
-  * [Ticket automation](configuration/support/ticket_automation/ticket_automation.md)
-  * [Ticket canned responses](configuration/support/ticket_canned_responses/ticket_canned_responses.md)
-  * [Ticket notifications](configuration/support/ticket_notifications/ticket_notifications.md)
-  * [Tickets](configuration/support/tickets/tickets.md)
+* [Tickets](configuration/tickets/tickets.md)    
+
+* [Ticket widget](configuration/tickets/ticket_widget/ticket_widget.md)
+* [Miscellaneous ticket configuration](configuration/tickets/miscellaneous_ticket_configuration/miscellaneous_ticket_configuration.md)
+* [Inboxes](configuration/tickets/inboxes/inboxes.md)
+* [Ticket automation](configuration/tickets/ticket_automation/ticket_automation.md)
+* [Ticket canned responses](configuration/tickets/ticket_canned_responses/ticket_canned_responses.md)
+* [Ticket notifications](configuration/tickets/ticket_notifications/ticket_notifications.md)
+* [Tickets](configuration/tickets/tickets/tickets.md)
 
 
 * [System](configuration/system/system.md)
