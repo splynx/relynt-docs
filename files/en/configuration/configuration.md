@@ -1,7 +1,7 @@
 Configuration
 =============
 
-This is the Global configurations of your Relynt server.
+This is the Global configurations of your Relynt system.
 
 Please follow the links below for tutorials of each of the sections of the Configuration:
 
@@ -18,7 +18,7 @@ Please follow the links below for tutorials of each of the sections of the Confi
 
 * [Scheduling](configuration/scheduling/scheduling.md)
 
-* [Support](configuration/support/support.md)
+* [Tickets](configuration/tickets/tickets.md)
 
 * [System](configuration/system/system.md)
 
