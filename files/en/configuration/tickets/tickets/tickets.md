@@ -13,9 +13,9 @@ In this module you can configure the sender details for [ticket notifications](c
 
 ![Tickets](tickets.png)
 
-**Send emails** - if this option enabled, Splynx will send notifications when tickets are updated;
+**Send emails** - if this option is enabled, notifications be sent when tickets are updated;
 
-**Send attachments to emails** - if this option enabled, attachments in ticket messages  will also be sent in the notifications;
+**Send attachments to emails** - if this option is enabled, attachments in ticket messages  will also be sent in the notifications;
 
 **Sender name** - name of sender;
 
@@ -23,7 +23,7 @@ In this module you can configure the sender details for [ticket notifications](c
 
 **Copy email** - send copies of all emails to this address(if set);
 
-**Send notifications to the admin panel(if online)** - if this option enabled, admins will receive a notification when they are online on the admin page.
+**Send notifications to the admin panel(if online)** - if this option is enabled, admins will receive a notification when they are online on the admin page.
 
 **Limit of additional fields** - specify a limit to the number of additional fields to show in the tickets module that are not hidden.
 
