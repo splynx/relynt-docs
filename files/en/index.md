@@ -228,17 +228,18 @@ Table of contents
   * [Import](configuration/tools/import/import.md)
   * [Invoices cache](configuration/tools/invoices_cache/invoices_cache.md)
   * [OpenVPN](configuration/tools/openvpn/openvpn.md)
-    * [ Cloud ](configuration/tools/openvpn/cloud/routes/routes.md)
+   * [ Cloud ](configuration/tools/openvpn/cloud/routes/routes.md)
+  * [Update GPS Coordinates](configuration/tools/gps/gps.md)
+  * [Restore Deleted Customers](configuration/tools/restore_deleted_customers/restore_deleted_customers.md)
+  * [Migration of services](configuration/tools/migration_of_services/migration_of_services.md)
+
+
+
 
 
 ##### [Add-ons, Modules](addons_modules/addons_modules.md)
-* [Cashdesk module](addons_modules/cashdesk/cashdesk.md)
-* [FatturaPA](addons_modules/FatturaPA/FatturaPA.md)
-* [Quickbooks accounting](addons_modules/quickbooks/quickbooks.md)
 * [SageOne module](addons_modules/sageone/sageone.md)
-* [Self Registration](addons_modules/self_registration/self_registration.md)
-* [Mailjet](addons_modules/mailjet/mailjet.md)
-* [ssh-term](addons_modules/ssh-term/ssh-term.md)
+* [relynt Mailjet](addons_modules/relynt_mailjet/relynt_mailjet.md)
 * [relynt_remote_support](addons_modules/relynt_remote_support/relynt_remote_support.md)
 * [Xero accounting](addons_modules/xero/xero.md)
 
